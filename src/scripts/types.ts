@@ -65,8 +65,8 @@ export let whiteMerino: Yarn = Yarn(
   "Laine mérinos blanche",
   "Laine de haute qualité qui vous tiendras chaud tout l'hiver!",
   20,
-  4,
+  0,
   yarnTypes[2],
-  "vert",
+  "blanc",
   100
 );
