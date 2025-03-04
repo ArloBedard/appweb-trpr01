@@ -4,7 +4,7 @@
     <header>
         <div class="d-flex align-items-center m-4" style="height: 165px;">
 
-            <img src="../../public/logo.png" class="p-3" alt="logo" style="height: 170px;">
+            <img src="../assets/images/logo.png" class="p-3" alt="logo" style="height: 170px;">
 
             <div class="m-4">
                 <h1 class="display-1">Stitchly</h1>

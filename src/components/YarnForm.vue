@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, ref, watch } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { Yarn } from '../scripts/types.ts'
 import { yarnTypes } from '../scripts/types.ts'
 
